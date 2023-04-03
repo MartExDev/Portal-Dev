@@ -1,4 +1,4 @@
 User-agent: * 
 Disallow: / 
 
-Sitemap: https://dev.shopfi.app/sitemap.xml
+Sitemap: https://dev.martex.io/sitemap.xml
