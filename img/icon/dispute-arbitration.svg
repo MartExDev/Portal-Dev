@@ -12,13 +12,13 @@
 <path d="M13.5 18H50.5" stroke="#515667" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round" />
 <path
     d="M59.4693 40C59.4693 44.95 55.4593 48.97 50.4993 48.97C45.5393 48.97 41.5293 44.96 41.5293 40H59.4693Z"
-    stroke="#F55681"
+    stroke="#FF4480"
     stroke-width="2"
     stroke-miterlimit="10"
     stroke-linecap="round"
     stroke-linejoin="round"
   />
-<path d="M41.5 40H59.5L50.5 18L41.5 40Z" stroke="#F55681" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M41.5 40H59.5L50.5 18L41.5 40Z" stroke="#FF4480" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round" />
 <path
     d="M22.4693 40C22.4693 44.95 18.4593 48.97 13.4993 48.97C8.5393 48.97 4.5293 44.96 4.5293 40H22.4693Z"
     stroke="#515667"

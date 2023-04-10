@@ -16,5 +16,5 @@
     stroke-linecap="round"
     stroke-linejoin="round"
   />
-<path d="M24 46H40" stroke="#F55681" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M24 46H40" stroke="#FF4480" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round" />
 </svg>

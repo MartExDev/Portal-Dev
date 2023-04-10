@@ -31,7 +31,7 @@
   />
 <path
     d="M54.4805 36.62H52.3805C50.6405 36.62 49.2305 35.21 49.2305 33.47V30.32C49.2305 28.58 50.6405 27.17 52.3805 27.17H54.4805V36.62Z"
-    stroke="#F55681"
+    stroke="#FF4480"
     stroke-width="2"
     stroke-miterlimit="10"
     stroke-linecap="round"
@@ -39,7 +39,7 @@
   />
 <path
     d="M72.3109 36.62H70.2109V27.18H72.3109C74.0509 27.18 75.4609 28.59 75.4609 30.33V33.48C75.4609 35.21 74.0509 36.62 72.3109 36.62Z"
-    stroke="#F55681"
+    stroke="#FF4480"
     stroke-width="2"
     stroke-miterlimit="10"
     stroke-linecap="round"
@@ -47,16 +47,16 @@
   />
 <path
     d="M70.2107 31.37V26.65C70.2107 22.3 66.6907 18.78 62.3407 18.78C57.9907 18.78 54.4707 22.3 54.4707 26.65V31.37"
-    stroke="#F55681"
+    stroke="#FF4480"
     stroke-width="2"
     stroke-miterlimit="10"
     stroke-linecap="round"
     stroke-linejoin="round"
   />
-<path d="M72.2009 36.62V38.72C72.2009 40.46 70.7909 41.87 69.0509 41.87H64.9609" stroke="#F55681" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M72.2009 36.62V38.72C72.2009 40.46 70.7909 41.87 69.0509 41.87H64.9609" stroke="#FF4480" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round" />
 <path
     d="M62.35 43.44C63.5098 43.44 64.45 42.4998 64.45 41.34C64.45 40.1802 63.5098 39.24 62.35 39.24C61.1902 39.24 60.25 40.1802 60.25 41.34C60.25 42.4998 61.1902 43.44 62.35 43.44Z"
-    stroke="#F55681"
+    stroke="#FF4480"
     stroke-width="2"
     stroke-miterlimit="10"
     stroke-linecap="round"
