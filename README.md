@@ -10,7 +10,7 @@ Change the e-commerce world and open the door to global business opportunities. 
 
 - Website: https://martex.io
 - Twitter: https://twitter.com/MartEx_io
-- Telegram: https://t.me/martex_io
+- Telegram: https://t.me/martex_official
 - Medium: https://martexio.medium.com
 - Github: https://github.com/MartExDev
 - Discord: https://discord.gg/TUVqu5q68D
